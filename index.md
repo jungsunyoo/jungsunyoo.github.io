@@ -8,7 +8,7 @@ I am a PhD candidate in the Department of Cognitive Sciences at the University o
 
 Outside of lab, I play violin and viola. I perform in orchestra concerts from time to time and lead an amateur chamber orchestra.
 
-You can find my CV here.
+You can find my CV [here](/assets/Jungsun%20Yoo%20CV.pdf).
 
 ## Research Interests
 *   Reinforcement learning
