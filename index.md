@@ -45,15 +45,14 @@ Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory enc
 * UCI Graduate Dean’s Recruitment Fellowship (2020)
 * Friends of the Pacific Rim Scholarship (2015)
 
-## General writing
-
-* [Will Neurocriminology make Minority Report Real? (2017)](https://scanberlin.com/2017/01/05/will-neurocriminology-make-minority-report-real/)
-* [On Determining whom to Kill: the Challenge of Moral Decision Making (2016)](https://scanberlin.com/2016/07/07/on-determining-whom-to-kill-the-challenge-of-moral-decision-making/)
-
 ## Organizing
 
 * UCI Cognitive Sciences Colloquium organization committee (2023-2024)
 
+## General writing
+
+* [Will Neurocriminology make Minority Report Real? (2017)](https://scanberlin.com/2017/01/05/will-neurocriminology-make-minority-report-real/)
+* [On Determining whom to Kill: the Challenge of Moral Decision Making (2016)](https://scanberlin.com/2016/07/07/on-determining-whom-to-kill-the-challenge-of-moral-decision-making/)
 
 ## Performance
 
