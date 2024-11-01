@@ -56,16 +56,16 @@ Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory enc
 
 ## Performance
 
-* [Ensemble Diary Moments (2024)](https://www.youtube.com/watch?v=Q1wf5hc6aMU): Telemann Viola Concerto in G major, II.Allegro: viola soloist
+* [Ensemble Diary Moments (2024)](https://www.youtube.com/watch?v=Q1wf5hc6aMU): Telemann Viola Concerto in G major, II. Allegro: viola soloist
 * OC Philharmonic Orchestra (2024): Strauss Overture from Die Fledermaus, Tchaikovsky Romeo and Juliet Overture-Fantasia, John William's Best Film Music: viola   
 * [SKKU Orchestra 36th Fall concert (2022)](https://www.youtube.com/watch?v=GRl_71-37B0): Tchaikovsky Romeo and Juliet Overture-Fantasia, Dvorak, Symphony no.8 in G major, op.88: viola
 * [Ensemble Gajavi (2021)](https://www.youtube.com/watch?v=puLFBhQz9Lo): Oblivion by Astor Piazzolla arr. for 4 violas (2021): second viola
-* [Festival Ensemble Gaudium 13th concert (2019)](https://www.youtube.com/watch?v=q8ymbOdwf5M): Sergei Sergeyvich Prokofiev - Romeo and Juliet(2nd suite) The Montagues and the Capulets' Op.64ter, Pyotr Ilich Tchaikovsky - 'Romeo and Juliet' Overture Fantasy, Hector Berlioz - Symphonie Fantastique: viola
-* [Festival Ensemble Gaudium 12th concert (2019)](https://www.youtube.com/watch?v=wAArHf3I7R0): Felix Mendelssohn Bartholdy - The Hebrides(Fingal's Cave) Overture Op.26, Gustav Mahler - Symphony No.1 in D major 'Titan': second violin
-* [SKKU Orchestra 32nd Fall concert (2018)](https://www.youtube.com/watch?v=0CkXeRI6k9A): Glinka - Russlan and Ludmilla Overture, Tchaikovsky - The Nutcracker Suite, Op 71, Antonín Dvořák - Symphony No. 9 ‘From the New World’: second violin
+* [Festival Ensemble Gaudium 13th concert (2019)](https://www.youtube.com/watch?v=q8ymbOdwf5M): Prokofiev Romeo and Juliet(2nd suite) The Montagues and the Capulets' Op.64, Tchaikovsky Romeo and Juliet Overture-Fantasia, Berlioz Symphonie Fantastique: viola
+* [Festival Ensemble Gaudium 12th concert (2019)](https://www.youtube.com/watch?v=wAArHf3I7R0): Mendelssohn The Hebrides(Fingal's Cave) Overture Op.26, Mahler Symphony No.1 in D major 'Titan': second violin
+* [SKKU Orchestra 32nd Fall concert (2018)](https://www.youtube.com/watch?v=0CkXeRI6k9A): Glinka Russlan and Ludmilla Overture, Tchaikovsky The Nutcracker Suite, Op 71, Dvořák Symphony No. 9 ‘From the New World’: second violin
 * [SKKU Orchestra 28th Fall concert (2014)](https://www.youtube.com/watch?v=X6-aUus_Fts): Tchaikovsky Nutcracker Ballet Suite, Op.71a, Tchaikovsky Symphony No.5 in E Minor, Op.64: second violin
 * [SKKU Orchestra 28th Spring concert (2014)](https://www.youtube.com/watch?v=jbFghasawp0): Beethoven Egmont Overture, Op.84, Mozart Symphony No.40 in G Minor, K.550, Beethoven Symphony No.3, Op.55 "Eroica": second violin
-* [SKKU Orchestra 27th Fall concert (2013)](https://www.youtube.com/watch?v=Pk5Kvxhxo2Y): E.Elgar Pomp and Circumstance March No.1 Op.39, L.V.Beethoven Piano Concerto No.3 in c minor Op.37, Antonín Dvořák - Symphony No. 9 ‘From the New World’: second violin
+* [SKKU Orchestra 27th Fall concert (2013)](https://www.youtube.com/watch?v=Pk5Kvxhxo2Y): Elgar Pomp and Circumstance March No.1 Op.39, Beethoven Piano Concerto No.3 in c minor Op.37, Dvořák Symphony No. 9 ‘From the New World’: second violin
 
 
 <!-- ## 
