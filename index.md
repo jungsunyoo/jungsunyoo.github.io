@@ -4,7 +4,7 @@ layout: default
 
 Hi, I'm Jungsun!
 
-I am a PhD candidate in the Department of Cognitive Sciences at the University of California, Irvine. I am advised by [Aaron Bornstein](https://aaron.bornstein.org/) in the [Computational Cognitive Neuroscience Lab](https://uciccnl.github.io/lab/). In Fall 2025, I will be joining [Princeton Neuroscience Institute](https://pni.princeton.edu/) as a postdoctoral researcher. 
+I am a PhD candidate in the Department of Cognitive Sciences at the University of California, Irvine. I am advised by [Aaron Bornstein](https://aaron.bornstein.org/) in the [Computational Cognitive Neuroscience Lab](https://uciccnl.github.io/lab/). My research focuses on understanding how people learn and use various kinds of representations to plan, as well as how variable experience shapes our internal representation of the world. In Fall 2025, I will be joining [Princeton Neuroscience Institute](https://pni.princeton.edu/) as a postdoctoral researcher. 
 
 Outside of lab, I play violin and viola. I perform in orchestra concerts from time to time and lead an amateur chamber orchestra.
 
