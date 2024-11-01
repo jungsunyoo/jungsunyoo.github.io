@@ -52,17 +52,20 @@ Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory enc
 * UCI Cognitive Sciences Colloquium organization committee (2023-2024)
 
 
-## Music
+## Performance
 
-* Ensemble Diary Moments: [Telemann Viola Concerto in G major, II.Allegro (2024)](https://www.youtube.com/watch?v=Q1wf5hc6aMU): viola soloist
-* SKKU Orchestra 36th Fall concert: [Tchaikovsky, Romeo and Juliet(overture-fantasy), Dvorak, Symphony no.8 in G major, op.88](https://www.youtube.com/watch?v=GRl_71-37B0): viola
-* Ensemble Gajavi: [Oblivion by Astor Piazzolla arr. for 4 violas (2021)](https://www.youtube.com/watch?v=puLFBhQz9Lo): second viola
-* Festival Ensemble Gaudium 13th concert: [Sergei Sergeyvich Prokofiev - Romeo and Juliet(2nd suite) The Montagues and the Capulets' Op.64ter, Pyotr Ilich Tchaikovsky - 'Romeo and Juliet' Overture Fantasy, Hector Berlioz - Symphonie Fantastique](https://www.youtube.com/watch?v=q8ymbOdwf5M): viola
-* Festival Ensemble Gaudium 12th concert: [Felix Mendelssohn Bartholdy - The Hebrides(Fingal's Cave) Overture Op.26, Gustav Mahler - Symphony No.1 in D major 'Titan'](https://www.youtube.com/watch?v=wAArHf3I7R0): second violin
-* SKKU Orchestra 32nd Fall concert: [Glinka - Russlan and Ludmilla Overture, Tchaikovsky - The Nutcracker Suite, Op 71, Antonín Dvořák - Symphony No. 9 ‘From the New World’](https://www.youtube.com/watch?v=0CkXeRI6k9A): second violin
-* SKKU Orchestra 28th Fall concert: [Tchaikovsky Nutcracker Ballet Suite, Op.71a, Tchaikovsky Symphony No.5 in E Minor, Op.64](https://www.youtube.com/watch?v=X6-aUus_Fts): second violin
-* SKKU Orchestra 28th Spring concert: [Beethoven Egmont Overture, Op.84, Mozart Symphony No.40 in G Minor, K.550, Beethoven Symphony No.3, Op.55 "Eroica"](https://www.youtube.com/watch?v=jbFghasawp0): second violin
-* SKKU Orchestra 27th Fall concert: [E.Elgar Pomp and Circumstance March No.1 Op.39, L.V.Beethoven Piano Concerto No.3 in c minor Op.37, Antonín Dvořák - Symphony No. 9 ‘From the New World’](https://www.youtube.com/watch?v=Pk5Kvxhxo2Y): second violin
+* [Ensemble Diary Moments](https://www.youtube.com/watch?v=Q1wf5hc6aMU): Telemann Viola Concerto in G major, II.Allegro (2024): viola soloist
+* OC Philharmonic Orchestra: Strauss Overture from Die Fledermaus, Tchaikovsky Romeo and Juliet Overture-Fantasia, John William's Best Film Music: viola   
+* [SKKU Orchestra 36th Fall concert](https://www.youtube.com/watch?v=GRl_71-37B0): Tchaikovsky Romeo and Juliet Overture-Fantasia, Dvorak, Symphony no.8 in G major, op.88: viola
+* [Ensemble Gajavi](https://www.youtube.com/watch?v=puLFBhQz9Lo): Oblivion by Astor Piazzolla arr. for 4 violas (2021): second viola
+* [Festival Ensemble Gaudium 13th concert](https://www.youtube.com/watch?v=q8ymbOdwf5M): Sergei Sergeyvich Prokofiev - Romeo and Juliet(2nd suite) The Montagues and the Capulets' Op.64ter, Pyotr Ilich Tchaikovsky - 'Romeo and Juliet' Overture Fantasy, Hector Berlioz - Symphonie Fantastique: viola
+* [Festival Ensemble Gaudium 12th concert](https://www.youtube.com/watch?v=wAArHf3I7R0): Felix Mendelssohn Bartholdy - The Hebrides(Fingal's Cave) Overture Op.26, Gustav Mahler - Symphony No.1 in D major 'Titan': second violin
+* [SKKU Orchestra 32nd Fall concert](https://www.youtube.com/watch?v=0CkXeRI6k9A): Glinka - Russlan and Ludmilla Overture, Tchaikovsky - The Nutcracker Suite, Op 71, Antonín Dvořák - Symphony No. 9 ‘From the New World’: second violin
+* [SKKU Orchestra 28th Fall concert](https://www.youtube.com/watch?v=X6-aUus_Fts): Tchaikovsky Nutcracker Ballet Suite, Op.71a, Tchaikovsky Symphony No.5 in E Minor, Op.64: second violin
+* [SKKU Orchestra 28th Spring concert](https://www.youtube.com/watch?v=jbFghasawp0): Beethoven Egmont Overture, Op.84, Mozart Symphony No.40 in G Minor, K.550, Beethoven Symphony No.3, Op.55 "Eroica": second violin
+* [SKKU Orchestra 27th Fall concert](https://www.youtube.com/watch?v=Pk5Kvxhxo2Y): E.Elgar Pomp and Circumstance March No.1 Op.39, L.V.Beethoven Piano Concerto No.3 in c minor Op.37, Antonín Dvořák - Symphony No. 9 ‘From the New World’: second violin
+
+
 <!-- ## 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
