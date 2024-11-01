@@ -29,7 +29,7 @@ Outside of lab, I play violin and viola. I perform in orchestra concerts from ti
 
 Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory encoding in the medial temporal lobe and beyond: The role of reward](http://learnmem.cshlp.org/content/29/10/379.abstract). _Learning and Memory 29 (10)_, 379-389.
 
-**Yoo J**, Bornstein AM (2022). [Two-stage task with increased state space complexity to assess online planning](/assets/revised_JY_RLDM2022.pdf). _Proceedings of the 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2022)_.]
+**Yoo J**, Bornstein AM (2022). [Two-stage task with increased state space complexity to assess online planning](/assets/revised_JY_RLDM2022.pdf). _Proceedings of the 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2022)_.
 
 **Yoo J**, Jun T, Kim Y (2021). [xECGNet: Fine-tuning attention map within convolutional neural network to improve detection and explainability of concurrent cardiac arrhythmias](https://www.sciencedirect.com/science/article/abs/pii/S0169260721003552?via%3Dihub). _Computer Methods and Programs in Biomedicine, 208, 106281._
 
