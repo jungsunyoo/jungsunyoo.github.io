@@ -12,13 +12,13 @@ You can find my CV here.
 *   Reinforcement learning
 *   Cognitive graphs
 
-## Publications
+## Papers
 
 ### Preprint
 
 **Yoo J**, Bornstein AM. [Temporal dynamics of model-based control reveal arbitration between multiple task representations](https://osf.io/preprints/psyarxiv/sgcy5).
 
-### Peer-reviewed articles
+### Publications
 
 **Yoo J**, Chrastil RE, Bornstein AM. [Cognitive graphs: Representational substrates for planning](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdec0000249). _Decision_.
 
