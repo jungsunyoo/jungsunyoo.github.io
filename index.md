@@ -22,7 +22,7 @@ You can find my CV [here](/assets/Jungsun%20Yoo%20CV.pdf).
 
 ### Publications
 
-**Yoo J**, Chrastil RE, Bornstein AM. [Cognitive graphs: Representational substrates for planning](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdec0000249). _Decision_.
+**Yoo J**, Chrastil RE, Bornstein AM (2024). [Cognitive graphs: Representational substrates for planning](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdec0000249). _Decision_.
 
 **Yoo J**, Zhou D, Bornstein AM (2024). [Latent cause inference as an efficient and flexible learning rule for cognitive graphs](/assets/CCN2024_Yoo_Bornstein.pdf). _Cognitive Computational Neuroscience_.
 
