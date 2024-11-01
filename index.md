@@ -16,30 +16,35 @@ You can find my CV here.
 
 ### Preprint
 
-**Yoo J**, Bornstein AM. Temporal dynamics of model-based control reveal arbitration between multiple task representations. [<a href=https://osf.io/preprints/psyarxiv/sgcy5>paper</a>]
+**Yoo J**, Bornstein AM. [Temporal dynamics of model-based control reveal arbitration between multiple task representations](https://osf.io/preprints/psyarxiv/sgcy5).
 
 ### Peer-reviewed articles
 
-**Yoo J**, Chrastil RE, Bornstein AM. Cognitive graphs: Representational substrates for planning. _Decision_. [<a href=https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdec0000249>paper</a>]
+**Yoo J**, Chrastil RE, Bornstein AM. [Cognitive graphs: Representational substrates for planning](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdec0000249). _Decision_.
 
-**Yoo J**, Zhou D, Bornstein AM (2024). Latent cause inference as an efficient and flexible learning rule for cognitive graphs. _Cognitive Computational Neuroscience_. [<a href=https://aaron.bornstein.org/cv/pubs/2024_yzb_ccn.pdf>paper</a>]
+**Yoo J**, Zhou D, Bornstein AM (2024). [Latent cause inference as an efficient and flexible learning rule for cognitive graphs](https://aaron.bornstein.org/cv/pubs/2024_yzb_ccn.pdf). _Cognitive Computational Neuroscience_.
 
-Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). Category-specific memory encoding in the medial temporal lobe and beyond: The role of reward. _Learning and Memory 29 (10)_, 379-389. [<a href=http://learnmem.cshlp.org/content/29/10/379.abstract>paper</a>]
+Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory encoding in the medial temporal lobe and beyond: The role of reward](http://learnmem.cshlp.org/content/29/10/379.abstract). _Learning and Memory 29 (10)_, 379-389.
 
 **Yoo J**, Bornstein AM (2022). Two-stage task with increased state space complexity to assess online planning. _Proceedings of the 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2022)_.]
 
-**Yoo J**, Jun T, Kim Y (2021). xECGNet: Fine-tuning attention map within convolutional neural network to improve detection and explainability of concurrent cardiac arrhythmias. _Computer Methods and Programs in Biomedicine, 208, 106281._ [<a href=https://www.sciencedirect.com/science/article/abs/pii/S0169260721003552?via%3Dihub>paper</a>]
+**Yoo J**, Jun T, Kim Y (2021). [xECGNet: Fine-tuning attention map within convolutional neural network to improve detection and explainability of concurrent cardiac arrhythmias](https://www.sciencedirect.com/science/article/abs/pii/S0169260721003552?via%3Dihub). _Computer Methods and Programs in Biomedicine, 208, 106281._
 
-**Yoo J**, Min S, Lee S, Han S (2021). Neural correlates of episodic memory modulated by temporally delayed rewards. _PLoS ONE 16(4): e0249290._ [<a href=https://doi.org/10.1371/journal.pone.0249290>paper</a>]
+**Yoo J**, Min S, Lee S, Han S (2021). [Neural correlates of episodic memory modulated by temporally delayed rewards](https://doi.org/10.1371/journal.pone.0249290). _PLoS ONE 16(4): e0249290._ 
 
 <!-- ### Patent -->
 ## Honors and awards
 
 Indow Fellowship for Research Excellence (2024)
+
 Upper Bound Talent Bursary (2023)
+
 RLDM Student Travel Fellowship (2022)
+
 AI Week Talent Bursary (2022)
+
 Graduate Dean’s Recruitment Fellowship (2020)
+
 Friends of the Pacific Rim Scholarship (2015)
 
 
