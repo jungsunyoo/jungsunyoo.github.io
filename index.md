@@ -35,17 +35,12 @@ Schultz H, **Yoo J**, Meshi D, Heekeren HR (2022). [Category-specific memory enc
 <!-- ### Patent -->
 ## Honors and awards
 
-Indow Fellowship for Research Excellence (2024)
-
-Upper Bound Talent Bursary (2023)
-
-RLDM Student Travel Fellowship (2022)
-
-AI Week Talent Bursary (2022)
-
-Graduate Dean’s Recruitment Fellowship (2020)
-
-Friends of the Pacific Rim Scholarship (2015)
+* Indow Fellowship for Research Excellence (2024)
+* Upper Bound Talent Bursary (2023)
+* RLDM Student Travel Fellowship (2022)
+* AI Week Talent Bursary (2022)
+* UCI Graduate Dean’s Recruitment Fellowship (2020)
+* Friends of the Pacific Rim Scholarship (2015)
 
 
 
